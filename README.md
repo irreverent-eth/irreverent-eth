@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @irreverent-eth
 - 👀 I like jpegs
 - 🌱 I’m currently learning solidity
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on cool stuff
 - 📫 How to reach me https://twitter.com/irreverent_nft
 
 <!---
