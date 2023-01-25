@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @irreverent-eth
-- 👀 I like jpegs
-- 🌱 I’m currently learning solidity
-- 💞️ I’m looking to collaborate on cool stuff
+- 👋 Hi, I’m irreverent
+- 👀 I like to write fun code with python and solidity, and to try new things
+- 🌱 I’m currently learning purely on-chain generative art
+- 💞️ Ping me for solidity dev and auditing requests
 - 📫 How to reach me https://twitter.com/irreverent_nft
 
 <!---
